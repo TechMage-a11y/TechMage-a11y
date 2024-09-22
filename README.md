@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 My name is Konstantin
 - 🌱 I’m currently studying in college
-- 😄 Pronouns: he/him
+  
 
 <!--
 **TechMage-a11y/TechMage-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
