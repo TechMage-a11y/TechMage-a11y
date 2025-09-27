@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 My name is Konstantin
+- 🔭 My name is TechMage-a11y
 - 🌱 I’m currently studying in college
   
 
